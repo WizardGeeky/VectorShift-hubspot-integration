@@ -2,7 +2,10 @@
 
 This repository contains the completed technical assessment for **VectorShift**. It includes full-stack integration of **HubSpot OAuth**, along with item retrieval and rendering functionality using **FastAPI (Python)** and **React (JavaScript)**.
 
----
+
+![image](https://github.com/user-attachments/assets/c92ade09-785c-4635-be0c-04294fb83b82)
+
+
 
 ## 📦 Tech Stack
 
@@ -11,10 +14,7 @@ This repository contains the completed technical assessment for **VectorShift**.
 - **OAuth Provider**: HubSpot
 - **Cache/Token Store**: Redis
 
----
 
-
----
 
 ## ✅ Part 1: HubSpot OAuth Integration
 
@@ -38,7 +38,6 @@ This repository contains the completed technical assessment for **VectorShift**.
 
 - HubSpot integration added to global integrations UI for discoverability.
 
----
 
 ## ✅ Part 2: Loading HubSpot Items
 
@@ -56,7 +55,6 @@ This repository contains the completed technical assessment for **VectorShift**.
 
 - Prints the final list to the **console**.
 
----
 
 ## 🚀 Getting Started
 
@@ -66,7 +64,6 @@ This repository contains the completed technical assessment for **VectorShift**.
 - npm install
 - npm run start
 
----
 
 ### 🖥 Backend Setup
 
